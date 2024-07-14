@@ -1,0 +1,2535 @@
+{
+    "inanimate": [
+        {
+            "prompts": [
+                "A vintage-style poster of A ceramic vase with an intricate floral pattern and a glossy, sky-blue glaze, holding a rare bouquet of flowers",
+                "A vintage-style poster of A ceramic vase with an intricate floral pattern and a glossy, sky-blue glaze, displaying exotic orchids",
+                "A vintage-style poster of A ceramic vase with an intricate floral pattern and a glossy, sky-blue glaze, adding charm to a homely setting",
+                "A vintage-style poster of A ceramic vase with an intricate floral pattern and a glossy, sky-blue glaze, complementing a corporate decor",
+                "A vintage-style poster of A ceramic vase with an intricate floral pattern and a glossy, sky-blue glaze, containing delicate cherry blossoms"
+            ],
+            "concept_token": "vase",
+            "index": 122,
+            "superclass": "inanimate",
+            "desc_type": "detailed",
+            "subject": "A ceramic vase with an intricate floral pattern and a glossy, sky-blue glaze",
+            "settings_types": [
+                "wearing_items",
+                "wearing_items",
+                "pose_changing",
+                "pose_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "holding a rare bouquet of flowers",
+                "displaying exotic orchids",
+                "adding charm to a homely setting",
+                "complementing a corporate decor",
+                "containing delicate cherry blossoms"
+            ],
+            "style": "A vintage-style poster of"
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of A plush velvet sofa in a rich emerald green color with elegant, curved armrests, occupied by a sleeping cat",
+                "A hyper-realistic digital painting of A plush velvet sofa in a rich emerald green color with elegant, curved armrests, in a Victorian-style parlor",
+                "A hyper-realistic digital painting of A plush velvet sofa in a rich emerald green color with elegant, curved armrests, in an outdoor patio",
+                "A hyper-realistic digital painting of A plush velvet sofa in a rich emerald green color with elegant, curved armrests, in a bustling coffee shop",
+                "A hyper-realistic digital painting of A plush velvet sofa in a rich emerald green color with elegant, curved armrests, with a fleece blanket"
+            ],
+            "concept_token": "sofa",
+            "index": 123,
+            "superclass": "inanimate",
+            "desc_type": "detailed",
+            "subject": "A plush velvet sofa in a rich emerald green color with elegant, curved armrests",
+            "settings_types": [
+                "pose_changing",
+                "background_changing",
+                "background_changing",
+                "background_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "occupied by a sleeping cat",
+                "in a Victorian-style parlor",
+                "in an outdoor patio",
+                "in a bustling coffee shop",
+                "with a fleece blanket"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        },
+      
+    ],
+    "fantasy": [
+        {
+            "prompts": [
+                "A watercolor illustration of A fairy, wearing gossamer wings",
+                "A watercolor illustration of A fairy, frolicking in the air",
+                "A watercolor illustration of A fairy, wearing a crown of twigs",
+                "A watercolor illustration of A fairy, near a shimmering brook",
+                "A watercolor illustration of A fairy, dancing in moonlight"
+            ],
+            "concept_token": "fairy",
+            "index": 91,
+            "superclass": "fantasy",
+            "desc_type": "generic",
+            "subject": "A fairy",
+            "settings_types": [
+                "wearing_items",
+                "pose_changing",
+                "wearing_items",
+                "background_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "wearing gossamer wings",
+                "frolicking in the air",
+                "wearing a crown of twigs",
+                "near a shimmering brook",
+                "dancing in moonlight"
+            ],
+            "style": "A watercolor illustration of"
+        },
+        {
+            "prompts": [
+                "origami style of A dragon, atop an ancient castle",
+                "origami style of A dragon, breathing a plume of fire",
+                "origami style of A dragon, coiling around its hoard",
+                "origami style of A dragon, guarding a treasure trove",
+                "origami style of A dragon, resting in a cavern"
+            ],
+            "concept_token": "dragon",
+            "index": 92,
+            "superclass": "fantasy",
+            "desc_type": "generic",
+            "subject": "A dragon",
+            "settings_types": [
+                "background_changing",
+                "pose_changing",
+                "pose_changing",
+                "background_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "atop an ancient castle",
+                "breathing a plume of fire",
+                "coiling around its hoard",
+                "guarding a treasure trove",
+                "resting in a cavern"
+            ],
+            "style": "origami style of"
+        },
+        {
+            "prompts": [
+                "A photo of An elf with long, silver hair, eyes like polished amethyst, and ears that curve elegantly upwards, in an elven city of trees",
+                "A photo of An elf with long, silver hair, eyes like polished amethyst, and ears that curve elegantly upwards, cleaning a sword",
+                "A photo of An elf with long, silver hair, eyes like polished amethyst, and ears that curve elegantly upwards, reading an ancient text",
+                "A photo of An elf with long, silver hair, eyes like polished amethyst, and ears that curve elegantly upwards, flying in the air",
+                "A photo of An elf with long, silver hair, eyes like polished amethyst, and ears that curve elegantly upwards, in a library of scrolls"
+            ],
+            "concept_token": "elf",
+            "index": 93,
+            "superclass": "fantasy",
+            "desc_type": "detailed",
+            "subject": "An elf with long, silver hair, eyes like polished amethyst, and ears that curve elegantly upwards",
+            "settings_types": [
+                "background_changing",
+                "pose_changing",
+                "pose_changing",
+                "pose_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "in an elven city of trees",
+                "cleaning a sword",
+                "reading an ancient text",
+                "flying in the air",
+                "in a library of scrolls"
+            ],
+            "style": "A photo of"
+        },
+        {
+            "prompts": [
+                "A mystical unicorn with a midnight blue coat and a crystal horn emitting glow, in a blooming meadow",
+                "A mystical unicorn with a midnight blue coat and a crystal horn emitting glow, dressed in a glow of moonlight",
+                "A mystical unicorn with a midnight blue coat and a crystal horn emitting glow, wearing a silver bridle",
+                "A mystical unicorn with a midnight blue coat and a crystal horn emitting glow, dressed in a blanket of mist",
+                "A mystical unicorn with a midnight blue coat and a crystal horn emitting glow, meeting a group of children"
+            ],
+            "concept_token": "unicorn",
+            "index": 94,
+            "superclass": "fantasy",
+            "desc_type": "detailed",
+            "subject": "A mystical unicorn with a midnight blue coat and a crystal horn emitting glow",
+            "settings_types": [
+                "background_changing",
+                "wearing_items",
+                "wearing_items",
+                "wearing_items",
+                "pose_changing"
+            ],
+            "settings": [
+                "in a blooming meadow",
+                "dressed in a glow of moonlight",
+                "wearing a silver bridle",
+                "dressed in a blanket of mist",
+                "meeting a group of children"
+            ],
+            "style": ""
+        },
+        {
+            "prompts": [
+                "A 3D animation of A leprechaun, in a clover field",
+                "A 3D animation of A leprechaun, dressed in a suit of gold",
+                "A 3D animation of A leprechaun, inside a hollow oak tree",
+                "A 3D animation of A leprechaun, sharing a pint",
+                "A 3D animation of A leprechaun, performing a jig"
+            ],
+            "concept_token": "leprechaun",
+            "index": 95,
+            "superclass": "fantasy",
+            "desc_type": "generic",
+            "subject": "A leprechaun",
+            "settings_types": [
+                "background_changing",
+                "wearing_items",
+                "background_changing",
+                "pose_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "in a clover field",
+                "dressed in a suit of gold",
+                "inside a hollow oak tree",
+                "sharing a pint",
+                "performing a jig"
+            ],
+            "style": "A 3D animation of"
+        },
+
+        {
+            "prompts": [
+                "A pixar style illustration of A dragon, atop an ancient castle",
+                "A pixar style illustration of A dragon, within a fiery chasm",
+                "A pixar style illustration of A dragon, coiling around its hoard",
+                "A pixar style illustration of A dragon, dressed in an aura of smoke",
+                "A pixar style illustration of A dragon, wearing a mantle of embers"
+            ],
+            "concept_token": "dragon",
+            "index": 99,
+            "superclass": "fantasy",
+            "desc_type": "generic",
+            "subject": "A dragon",
+            "settings_types": [
+                "background_changing",
+                "background_changing",
+                "pose_changing",
+                "wearing_items",
+                "wearing_items"
+            ],
+            "settings": [
+                "atop an ancient castle",
+                "within a fiery chasm",
+                "coiling around its hoard",
+                "dressed in an aura of smoke",
+                "wearing a mantle of embers"
+            ],
+            "style": "A pixar style illustration of"
+        },
+        {
+            "prompts": [
+                "A 3D animation of A goblin with patchy, leathery skin and oversized ears, carrying a tiny, glowing lantern, wearing a cloak",
+                "A 3D animation of A goblin with patchy, leathery skin and oversized ears, carrying a tiny, glowing lantern, haggling over goods",
+                "A 3D animation of A goblin with patchy, leathery skin and oversized ears, carrying a tiny, glowing lantern, wearing a belt of tools",
+                "A 3D animation of A goblin with patchy, leathery skin and oversized ears, carrying a tiny, glowing lantern, dressed in a guard's uniform",
+                "A 3D animation of A goblin with patchy, leathery skin and oversized ears, carrying a tiny, glowing lantern, in a dungeon's depths"
+            ],
+            "concept_token": "goblin",
+            "index": 100,
+            "superclass": "fantasy",
+            "desc_type": "detailed",
+            "subject": "A goblin with patchy, leathery skin and oversized ears, carrying a tiny, glowing lantern",
+            "settings_types": [
+                "wearing_items",
+                "pose_changing",
+                "wearing_items",
+                "wearing_items",
+                "background_changing"
+            ],
+            "settings": [
+                "wearing a cloak",
+                "haggling over goods",
+                "wearing a belt of tools",
+                "dressed in a guard's uniform",
+                "in a dungeon's depths"
+            ],
+            "style": "A 3D animation of"
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of A fairy, in a mystical glen",
+                "A hyper-realistic digital painting of A fairy, atop a dew-covered flower",
+                "A hyper-realistic digital painting of A fairy, inside a hollowed-out tree",
+                "A hyper-realistic digital painting of A fairy, collecting morning dew",
+                "A hyper-realistic digital painting of A fairy, under a full moon"
+            ],
+            "concept_token": "fairy",
+            "index": 101,
+            "superclass": "fantasy",
+            "desc_type": "generic",
+            "subject": "A fairy",
+            "settings_types": [
+                "background_changing",
+                "background_changing",
+                "background_changing",
+                "pose_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "in a mystical glen",
+                "atop a dew-covered flower",
+                "inside a hollowed-out tree",
+                "collecting morning dew",
+                "under a full moon"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of A leprechaun with a mischievous grin, emerald-green coat, and a hat adorned with a four-leaf clover, counting gold coins",
+                "A hyper-realistic digital painting of A leprechaun with a mischievous grin, emerald-green coat, and a hat adorned with a four-leaf clover, at the end of a rainbow",
+                "A hyper-realistic digital painting of A leprechaun with a mischievous grin, emerald-green coat, and a hat adorned with a four-leaf clover, setting a trap",
+                "A hyper-realistic digital painting of A leprechaun with a mischievous grin, emerald-green coat, and a hat adorned with a four-leaf clover, in an underground workshop",
+                "A hyper-realistic digital painting of A leprechaun with a mischievous grin, emerald-green coat, and a hat adorned with a four-leaf clover, pointing his hand"
+            ],
+            "concept_token": "leprechaun",
+            "index": 102,
+            "superclass": "fantasy",
+            "desc_type": "detailed",
+            "subject": "A leprechaun with a mischievous grin, emerald-green coat, and a hat adorned with a four-leaf clover",
+            "settings_types": [
+                "pose_changing",
+                "background_changing",
+                "pose_changing",
+                "background_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "counting gold coins",
+                "at the end of a rainbow",
+                "setting a trap",
+                "in an underground workshop",
+                "performing a jig"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        },
+        {
+            "prompts": [
+                "A werewolf, wearing a torn shirt",
+                "A werewolf, dressed in a hunter's vest",
+                "A werewolf, wearing a mystical amulet",
+                "A werewolf, dressed in chains of captivity",
+                "A werewolf, in a ruined castle"
+            ],
+            "concept_token": "werewolf",
+            "index": 103,
+            "superclass": "fantasy",
+            "desc_type": "generic",
+            "subject": "A werewolf",
+            "settings_types": [
+                "wearing_items",
+                "wearing_items",
+                "wearing_items",
+                "wearing_items",
+                "background_changing"
+            ],
+            "settings": [
+                "wearing a torn shirt",
+                "dressed in a hunter's vest",
+                "wearing a mystical amulet",
+                "dressed in chains of captivity",
+                "in a ruined castle"
+            ],
+            "style": ""
+        },
+        {
+            "prompts": [
+                "An elf, in an elven city of trees",
+                "An elf, conducting a ritual",
+                "An elf, reading an ancient text",
+                "An elf, on a moonlit hillside",
+                "An elf, wearing a sash of wisdom"
+            ],
+            "concept_token": "elf",
+            "index": 105,
+            "superclass": "fantasy",
+            "desc_type": "generic",
+            "subject": "An elf",
+            "settings_types": [
+                "background_changing",
+                "pose_changing",
+                "pose_changing",
+                "background_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "in an elven city of trees",
+                "conducting a ritual",
+                "reading an ancient text",
+                "on a moonlit hillside",
+                "wearing a sash of wisdom"
+            ],
+            "style": ""
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of A fairy, dressed in a cloak of spider silk",
+                "A hyper-realistic digital painting of A fairy, tending to forest creatures",
+                "A hyper-realistic digital painting of A fairy, in a mystical glen",
+                "A hyper-realistic digital painting of A fairy, frolicking in the air",
+                "A hyper-realistic digital painting of A fairy, wearing a garland of fireflies"
+            ],
+            "concept_token": "fairy",
+            "index": 106,
+            "superclass": "fantasy",
+            "desc_type": "generic",
+            "subject": "A fairy",
+            "settings_types": [
+                "wearing_items",
+                "background_changing",
+                "background_changing",
+                "background_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "dressed in a cloak of spider silk",
+                "tending to forest creatures",
+                "in a mystical glen",
+                "frolicking in the air",
+                "wearing a garland of fireflies"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        },
+        {
+            "prompts": [
+                "A photo of A unicorn, wearing a wreath of wildflowers",
+                "A photo of A unicorn, nuzzling a fawn",
+                "A photo of A unicorn, wearing a silver bridle",
+                "A photo of A unicorn, dressed in a blanket of mist",
+                "A photo of A unicorn, meeting a group of children"
+            ],
+            "concept_token": "unicorn",
+            "index": 110,
+            "superclass": "fantasy",
+            "desc_type": "generic",
+            "subject": "A unicorn",
+            "settings_types": [
+                "wearing_items",
+                "pose_changing",
+                "wearing_items",
+                "wearing_items",
+                "pose_changing"
+            ],
+            "settings": [
+                "wearing a wreath of wildflowers",
+                "nuzzling a fawn",
+                "wearing a silver bridle",
+                "dressed in a blanket of mist",
+                "meeting a group of children"
+            ],
+            "style": "A photo of"
+        },
+        {
+            "prompts": [
+                "A photo of A fearsome werewolf with dense, dark fur and glowing, amber eyes in mid-transformation, in a dense, moonlit forest",
+                "A photo of A fearsome werewolf with dense, dark fur and glowing, amber eyes in mid-transformation, with buildings in the background",
+                "A photo of A fearsome werewolf with dense, dark fur and glowing, amber eyes in mid-transformation, battling a rival",
+                "A photo of A fearsome werewolf with dense, dark fur and glowing, amber eyes in mid-transformation, drinking for a pond",
+                "A photo of A fearsome werewolf with dense, dark fur and glowing, amber eyes in mid-transformation, in a ruined castle"
+            ],
+            "concept_token": "werewolf",
+            "index": 112,
+            "superclass": "fantasy",
+            "desc_type": "detailed",
+            "subject": "A fearsome werewolf with dense, dark fur and glowing, amber eyes in mid-transformation",
+            "settings_types": [
+                "background_changing",
+                "background_changing",
+                "pose_changing",
+                "background_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "in a dense, moonlit forest",
+                "with buildings in the background",
+                "battling a rival",
+                "drinking for a pond",
+                "in a ruined castle"
+            ],
+            "style": "A photo of"
+        },
+        {
+            "prompts": [
+                "A tiny fairy with delicate wings made of leaves and hair resembling fine strands of grass, wearing gossamer wings",
+                "A tiny fairy with delicate wings made of leaves and hair resembling fine strands of grass, atop a dew-covered flower",
+                "A tiny fairy with delicate wings made of leaves and hair resembling fine strands of grass, tending to forest creatures",
+                "A tiny fairy with delicate wings made of leaves and hair resembling fine strands of grass, collecting morning dew",
+                "A tiny fairy with delicate wings made of leaves and hair resembling fine strands of grass, under a full moon"
+            ],
+            "concept_token": "fairy",
+            "index": 114,
+            "superclass": "fantasy",
+            "desc_type": "detailed",
+            "subject": "A tiny fairy with delicate wings made of leaves and hair resembling fine strands of grass",
+            "settings_types": [
+                "wearing_items",
+                "background_changing",
+                "pose_changing",
+                "pose_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "wearing gossamer wings",
+                "atop a dew-covered flower",
+                "tending to forest creatures",
+                "collecting morning dew",
+                "under a full moon"
+            ],
+            "style": ""
+        },
+        {
+            "prompts": [
+                "An elf, shooting a bow",
+                "An elf, at an ancient stone circle",
+                "An elf, reading an ancient text",
+                "An elf, riding a majestic stag",
+                "An elf, crafting a magical artifact"
+            ],
+            "concept_token": "elf",
+            "index": 115,
+            "superclass": "fantasy",
+            "desc_type": "generic",
+            "subject": "An elf",
+            "settings_types": [
+                "pose_changing",
+                "background_changing",
+                "pose_changing",
+                "pose_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "shooting a bow",
+                "at an ancient stone circle",
+                "reading an ancient text",
+                "riding a majestic stag",
+                "crafting a magical artifact"
+            ],
+            "style": ""
+        },
+        {
+            "prompts": [
+                "A leprechaun, in a clover field",
+                "A leprechaun, mending a shoe",
+                "A leprechaun, inside a hollow oak tree",
+                "A leprechaun, sharing a pint",
+                "A leprechaun, at a village fair"
+            ],
+            "concept_token": "leprechaun",
+            "index": 116,
+            "superclass": "fantasy",
+            "desc_type": "generic",
+            "subject": "A leprechaun",
+            "settings_types": [
+                "background_changing",
+                "pose_changing",
+                "background_changing",
+                "pose_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "in a clover field",
+                "mending a shoe",
+                "inside a hollow oak tree",
+                "sharing a pint",
+                "at a village fair"
+            ],
+            "style": ""
+        },
+        {
+            "prompts": [
+                "neonpunk style of A goblin, wearing a cap",
+                "neonpunk style of A goblin, at a bustling night market",
+                "neonpunk style of A goblin, inside a cave of wonders",
+                "neonpunk style of A goblin, scaring passersby",
+                "neonpunk style of A goblin, in a dungeon's depths"
+            ],
+            "concept_token": "goblin",
+            "index": 118,
+            "superclass": "fantasy",
+            "desc_type": "generic",
+            "subject": "A goblin",
+            "settings_types": [
+                "wearing_items",
+                "background_changing",
+                "background_changing",
+                "pose_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "wearing a cap",
+                "at a bustling night market",
+                "inside a cave of wonders",
+                "scaring passersby",
+                "in a dungeon's depths"
+            ],
+            "style": "neonpunk style of"
+        },
+        {
+            "prompts": [
+                "neonpunk style of A colossal dragon with scales that shimmer like rubies, soaring through the clouds",
+                "neonpunk style of A colossal dragon with scales that shimmer like rubies, dressed in molten lava scales",
+                "neonpunk style of A colossal dragon with scales that shimmer like rubies, guarding his treasure",
+                "neonpunk style of A colossal dragon with scales that shimmer like rubies, with smoke all around",
+                "neonpunk style of A colossal dragon with scales that shimmer like rubies, resting in a cavern"
+            ],
+            "concept_token": "dragon",
+            "index": 119,
+            "superclass": "fantasy",
+            "desc_type": "detailed",
+            "subject": "A colossal dragon with scales that shimmer like rubies",
+            "settings_types": [
+                "pose_changing",
+                "wearing_items",
+                "pose_changing",
+                "wearing_items",
+                "pose_changing"
+            ],
+            "settings": [
+                "soaring through the clouds",
+                "dressed in molten lava scales",
+                "guarding his treasure",
+                "with smoke all around",
+                "resting in a cavern"
+            ],
+            "style": "neonpunk style of"
+        }
+    ],
+    "animals": [
+        {
+            "prompts": [
+                "A photo of A happy hedgehog, eating a big piece of cheese",
+                "A photo of A happy hedgehog, in a garden",
+                "A photo of A happy hedgehog, being held by a caretaker",
+                "A photo of A happy hedgehog, dressed in a festive outfit",
+                "A photo of A happy hedgehog, in an autumn forest"
+            ],
+            "concept_token": "hedgehog",
+            "index": 46,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A happy hedgehog",
+            "settings_types": [
+                "pose_changing",
+                "background_changing",
+                "pose_changing",
+                "wearing_items",
+                "background_changing"
+            ],
+            "settings": [
+                "eating a big piece of cheese",
+                "in a garden",
+                "being held by a caretaker",
+                "dressed in a festive outfit",
+                "in an autumn forest"
+            ],
+            "style": "A photo of"
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of A dog, chasing a frisbee",
+                "A hyper-realistic digital painting of A dog, dressed in a raincoat",
+                "A hyper-realistic digital painting of A dog, in a city alley",
+                "A hyper-realistic digital painting of A dog, jumping over a puddle",
+                "A hyper-realistic digital painting of A dog, at a veterinarian's office"
+            ],
+            "concept_token": "dog",
+            "index": 47,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A dog",
+            "settings_types": [
+                "pose_changing",
+                "wearing_items",
+                "background_changing",
+                "pose_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "chasing a frisbee",
+                "dressed in a raincoat",
+                "in a city alley",
+                "jumping over a puddle",
+                "at a veterinarian's office"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        },
+        {
+            "prompts": [
+                "A watercolor illustration of A Scarlet parrot with vibrant red, yellow, and blue feathers, in a tropical rainforest",
+                "A watercolor illustration of A Scarlet parrot with vibrant red, yellow, and blue feathers, singing a song",
+                "A watercolor illustration of A Scarlet parrot with vibrant red, yellow, and blue feathers, on the water",
+                "A watercolor illustration of A Scarlet parrot with vibrant red, yellow, and blue feathers, sitting on a rock",
+                "A watercolor illustration of A Scarlet parrot with vibrant red, yellow, and blue feathers, in a rain storm"
+            ],
+            "concept_token": "parrot",
+            "index": 48,
+            "superclass": "animals",
+            "desc_type": "detailed",
+            "subject": "A Scarlet parrot with vibrant red, yellow, and blue feathers",
+            "settings_types": [
+                "background_changing",
+                "pose_changing",
+                "background_changing",
+                "background_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "in a tropical rainforest",
+                "singing a song",
+                "on the water",
+                "sitting on a rock",
+                "in a rain storm"
+            ],
+            "style": "A watercolor illustration of"
+        },
+        {
+            "prompts": [
+                "origami style of A happy hedgehog, in a ship",
+                "origami style of A happy hedgehog, exploring among flowers",
+                "origami style of A happy hedgehog, at an animal rescue center",
+                "origami style of A happy hedgehog, in a meadow",
+                "origami style of A happy hedgehog, wearing a flower crown"
+            ],
+            "concept_token": "hedgehog",
+            "index": 50,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A happy hedgehog",
+            "settings_types": [
+                "pose_changing",
+                "pose_changing",
+                "background_changing",
+                "background_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "in a ship",
+                "exploring among flowers",
+                "at an animal rescue center",
+                "in a meadow",
+                "wearing a flower crown"
+            ],
+            "style": "origami style of"
+        },
+        {
+            "prompts": [
+                "A photo of A dog, chasing a frisbee",
+                "A photo of A dog, on a beach",
+                "A photo of A dog, sleeping on a porch",
+                "A photo of A dog, dressed in a superhero cape",
+                "A photo of A dog, sitting by a fireplace"
+            ],
+            "concept_token": "dog",
+            "index": 51,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A dog",
+            "settings_types": [
+                "pose_changing",
+                "background_changing",
+                "pose_changing",
+                "wearing_items",
+                "pose_changing"
+            ],
+            "settings": [
+                "chasing a frisbee",
+                "on a beach",
+                "sleeping on a porch",
+                "dressed in a superhero cape",
+                "sitting by a fireplace"
+            ],
+            "style": "A photo of"
+        },
+        {
+            "prompts": [
+                "A 3D animation of A black and white dog with yellow collar, wearing a bandana",
+                "A 3D animation of A black and white dog with yellow collar, on a beach",
+                "A 3D animation of A black and white dog with yellow collar, in a city alley",
+                "A 3D animation of A black and white dog with yellow collar, in a snowy backyard",
+                "A 3D animation of A black and white dog with yellow collar, at a veterinarian's office"
+            ],
+            "concept_token": "dog",
+            "index": 53,
+            "superclass": "animals",
+            "desc_type": "detailed",
+            "subject": "A black and white dog with yellow collar",
+            "settings_types": [
+                "wearing_items",
+                "background_changing",
+                "background_changing",
+                "background_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "wearing a bandana",
+                "on a beach",
+                "in a city alley",
+                "in a snowy backyard",
+                "at a veterinarian's office"
+            ],
+            "style": "A 3D animation of"
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of A red fox with a vibrant red coat, white belly, and bushy tail, wearing a scarf",
+                "A hyper-realistic digital painting of A red fox with a vibrant red coat, white belly, and bushy tail, dressed in a warm coat",
+                "A hyper-realistic digital painting of A red fox with a vibrant red coat, white belly, and bushy tail, wearing a playful bow",
+                "A hyper-realistic digital painting of A red fox with a vibrant red coat, white belly, and bushy tail, resting in a den",
+                "A hyper-realistic digital painting of A red fox with a vibrant red coat, white belly, and bushy tail, near a campsite"
+            ],
+            "concept_token": "fox",
+            "index": 54,
+            "superclass": "animals",
+            "desc_type": "detailed",
+            "subject": "A red fox with a vibrant red coat, white belly, and bushy tail",
+            "settings_types": [
+                "wearing_items",
+                "wearing_items",
+                "wearing_items",
+                "pose_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "wearing a scarf",
+                "dressed in a warm coat",
+                "wearing a playful bow",
+                "resting in a den",
+                "near a campsite"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        },
+        {
+            "prompts": [
+                "A pixar style illustration of A cat, on a sunny windowsill",
+                "A pixar style illustration of A cat, dressed in a Halloween costume",
+                "A pixar style illustration of A cat, hunting a mouse",
+                "A pixar style illustration of A cat, dressed in a Santa hat",
+                "A pixar style illustration of A cat, sitting on a shelf"
+            ],
+            "concept_token": "cat",
+            "index": 55,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A cat",
+            "settings_types": [
+                "background_changing",
+                "wearing_items",
+                "pose_changing",
+                "wearing_items",
+                "pose_changing"
+            ],
+            "settings": [
+                "on a sunny windowsill",
+                "dressed in a Halloween costume",
+                "hunting a mouse",
+                "dressed in a Santa hat",
+                "sitting on a shelf"
+            ],
+            "style": "A pixar style illustration of"
+        },
+        {
+            "prompts": [
+                "A pink hedgehog with a cute smile, curled up asleep",
+                "A pink hedgehog with a cute smile, dressed in a miniature jacket",
+                "A pink hedgehog with a cute smile, wearing a small hat",
+                "A pink hedgehog with a cute smile, in a meadow",
+                "A pink hedgehog with a cute smile, wearing a flower crown"
+            ],
+            "concept_token": "hedgehog",
+            "index": 58,
+            "superclass": "animals",
+            "desc_type": "detailed",
+            "subject": "A pink hedgehog with a cute smile",
+            "settings_types": [
+                "pose_changing",
+                "wearing_items",
+                "wearing_items",
+                "background_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "curled up asleep",
+                "dressed in a miniature jacket",
+                "wearing a small hat",
+                "in a meadow",
+                "wearing a flower crown"
+            ],
+            "style": ""
+        },
+        {
+            "prompts": [
+                "A 3D animation of A cute Labrador puppy with a glossy, chocolate brown coat, in a pet store",
+                "A 3D animation of A cute Labrador puppy with a glossy, chocolate brown coat, eating his food",
+                "A 3D animation of A cute Labrador puppy with a glossy, chocolate brown coat, wearing a training harness",
+                "A 3D animation of A cute Labrador puppy with a glossy, chocolate brown coat, dressed in a bandana",
+                "A 3D animation of A cute Labrador puppy with a glossy, chocolate brown coat, at a lake"
+            ],
+            "concept_token": "puppy",
+            "index": 59,
+            "superclass": "animals",
+            "desc_type": "detailed",
+            "subject": "A cute Labrador puppy with a glossy, chocolate brown coat",
+            "settings_types": [
+                "background_changing",
+                "pose_changing",
+                "wearing_items",
+                "wearing_items",
+                "background_changing"
+            ],
+            "settings": [
+                "in a pet store",
+                "eating his food",
+                "wearing a training harness",
+                "dressed in a bandana",
+                "at a lake"
+            ],
+            "style": "A 3D animation of"
+        },
+        {
+            "prompts": [
+                "neonpunk style of A horse, galloping",
+                "neonpunk style of A horse, on a race track",
+                "neonpunk style of A horse, in a grassy field",
+                "neonpunk style of A horse, climbing a hill",
+                "neonpunk style of A horse, at a show jumping course"
+            ],
+            "concept_token": "horse",
+            "index": 60,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A horse",
+            "settings_types": [
+                "pose_changing",
+                "background_changing",
+                "background_changing",
+                "pose_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "galloping",
+                "on a race track",
+                "in a grassy field",
+                "climbing a hill",
+                "at a show jumping course"
+            ],
+            "style": "neonpunk style of"
+        },
+        {
+            "prompts": [
+                "A minimalist graphic design of A Persian cat with long, fluffy grey fur and large, amber eyes, playing with a yarn ball",
+                "A minimalist graphic design of A Persian cat with long, fluffy grey fur and large, amber eyes, dressed in a Halloween costume",
+                "A minimalist graphic design of A Persian cat with long, fluffy grey fur and large, amber eyes, in a busy alley",
+                "A minimalist graphic design of A Persian cat with long, fluffy grey fur and large, amber eyes, on a tree branch",
+                "A minimalist graphic design of A Persian cat with long, fluffy grey fur and large, amber eyes, under the moon light"
+            ],
+            "concept_token": "cat",
+            "index": 61,
+            "superclass": "animals",
+            "desc_type": "detailed",
+            "subject": "A Persian cat with long, fluffy grey fur and large, amber eyes",
+            "settings_types": [
+                "pose_changing",
+                "wearing_items",
+                "background_changing",
+                "background_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "playing with a yarn ball",
+                "dressed in a Halloween costume",
+                "in a busy alley",
+                "on a tree branch",
+                "under the moon light"
+            ],
+            "style": "A minimalist graphic design of"
+        },
+        {
+            "prompts": [
+                "A 3D animation of A black and white dog with yellow collar, wearing a bandana",
+                "A 3D animation of A black and white dog with yellow collar, biting a bone",
+                "A 3D animation of A black and white dog with yellow collar, wearing a birthday hat",
+                "A 3D animation of A black and white dog with yellow collar, in a snowy backyard",
+                "A 3D animation of A black and white dog with yellow collar, sitting by a fireplace"
+            ],
+            "concept_token": "dog",
+            "index": 63,
+            "superclass": "animals",
+            "desc_type": "detailed",
+            "subject": "A black and white dog with yellow collar",
+            "settings_types": [
+                "wearing_items",
+                "pose_changing",
+                "wearing_items",
+                "background_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "wearing a bandana",
+                "biting a bone",
+                "wearing a birthday hat",
+                "in a snowy backyard",
+                "sitting by a fireplace"
+            ],
+            "style": "A 3D animation of"
+        },
+        {
+            "prompts": [
+                "A pixel art depiction of A cat, playing with a yarn ball",
+                "A pixel art depiction of A cat, in a cozy living room",
+                "A pixel art depiction of A cat, wearing a fluffy collar",
+                "A pixel art depiction of A cat, on a tree branch",
+                "A pixel art depiction of A cat, showing his teeth"
+            ],
+            "concept_token": "cat",
+            "index": 64,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A cat",
+            "settings_types": [
+                "pose_changing",
+                "background_changing",
+                "wearing_items",
+                "background_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "playing with a yarn ball",
+                "in a cozy living room",
+                "wearing a fluffy collar",
+                "on a tree branch",
+                "showing his teeth"
+            ],
+            "style": "A pixel art depiction of"
+        },
+        {
+            "prompts": [
+                "A watercolor illustration of A cute kitten with sleek, cream-colored fur and striking blue eyes, in a garden",
+                "A watercolor illustration of A cute kitten with sleek, cream-colored fur and striking blue eyes, dressed in a cute sweater",
+                "A watercolor illustration of A cute kitten with sleek, cream-colored fur and striking blue eyes, wearing a collar with a bell",
+                "A watercolor illustration of A cute kitten with sleek, cream-colored fur and striking blue eyes, dressed in a superhero cape",
+                "A watercolor illustration of A cute kitten with sleek, cream-colored fur and striking blue eyes, running through a field"
+            ],
+            "concept_token": "kitten",
+            "index": 66,
+            "superclass": "animals",
+            "desc_type": "detailed",
+            "subject": "A cute kitten with sleek, cream-colored fur and striking blue eyes",
+            "settings_types": [
+                "background_changing",
+                "wearing_items",
+                "wearing_items",
+                "wearing_items",
+                "pose_changing"
+            ],
+            "settings": [
+                "in a garden",
+                "dressed in a cute sweater",
+                "wearing a collar with a bell",
+                "dressed in a superhero cape",
+                "running through a field"
+            ],
+            "style": "A watercolor illustration of"
+        },
+        {
+            "prompts": [
+                "A puppy, wearing a small sweater",
+                "A puppy, dressed in a raincoat",
+                "A puppy, at a dairy farm",
+                "A puppy, on a car ride",
+                "A puppy, wearing a life vest"
+            ],
+            "concept_token": "puppy",
+            "index": 67,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A puppy",
+            "settings_types": [
+                "wearing_items",
+                "wearing_items",
+                "background_changing",
+                "background_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "wearing a small sweater",
+                "dressed in a raincoat",
+                "at a dairy farm",
+                "on a car ride",
+                "wearing a life vest"
+            ],
+            "style": ""
+        },
+        {
+            "prompts": [
+                "A horse, galloping",
+                "A horse, on a race track",
+                "A horse, in a grassy field",
+                "A horse, dressed in a saddle and hiking gear",
+                "A horse, wearing a show jumping outfit"
+            ],
+            "concept_token": "horse",
+            "index": 70,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A horse",
+            "settings_types": [
+                "pose_changing",
+                "background_changing",
+                "background_changing",
+                "wearing_items",
+                "wearing_items"
+            ],
+            "settings": [
+                "galloping",
+                "on a race track",
+                "in a grassy field",
+                "dressed in a saddle and hiking gear",
+                "wearing a show jumping outfit"
+            ],
+            "style": ""
+        },
+        {
+            "prompts": [
+                "A vintage-style poster of A dog, wearing a bandana",
+                "A vintage-style poster of A dog, on a beach",
+                "A vintage-style poster of A dog, wearing a birthday hat",
+                "A vintage-style poster of A dog, dressed in a superhero cape",
+                "A vintage-style poster of A dog, wearing a festive Christmas sweater"
+            ],
+            "concept_token": "dog",
+            "index": 71,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A dog",
+            "settings_types": [
+                "wearing_items",
+                "background_changing",
+                "wearing_items",
+                "wearing_items",
+                "wearing_items"
+            ],
+            "settings": [
+                "wearing a bandana",
+                "on a beach",
+                "wearing a birthday hat",
+                "dressed in a superhero cape",
+                "wearing a festive Christmas sweater"
+            ],
+            "style": "A vintage-style poster of"
+        },
+        {
+            "prompts": [
+                "A puppy, in a pet store",
+                "A puppy, in a grassy yard",
+                "A puppy, wearing a training harness",
+                "A puppy, dressed in a bandana",
+                "A puppy, wearing a life vest"
+            ],
+            "concept_token": "puppy",
+            "index": 72,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A puppy",
+            "settings_types": [
+                "background_changing",
+                "background_changing",
+                "wearing_items",
+                "wearing_items",
+                "wearing_items"
+            ],
+            "settings": [
+                "in a pet store",
+                "in a grassy yard",
+                "wearing a training harness",
+                "dressed in a bandana",
+                "wearing a life vest"
+            ],
+            "style": ""
+        },
+        {
+            "prompts": [
+                "A watercolor illustration of A puppy, wearing a small sweater",
+                "A watercolor illustration of A puppy, digging a hole",
+                "A watercolor illustration of A puppy, wearing a training harness",
+                "A watercolor illustration of A puppy, sticking head out of the car window",
+                "A watercolor illustration of A puppy, swimming"
+            ],
+            "concept_token": "puppy",
+            "index": 73,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A puppy",
+            "settings_types": [
+                "wearing_items",
+                "pose_changing",
+                "wearing_items",
+                "pose_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "wearing a small sweater",
+                "digging a hole",
+                "wearing a training harness",
+                "sticking head out of the car window",
+                "swimming"
+            ],
+            "style": "A watercolor illustration of"
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of A horse, in a stable",
+                "A hyper-realistic digital painting of A horse, jumping over a hurdle",
+                "A hyper-realistic digital painting of A horse, wearing a decorative headpiece",
+                "A hyper-realistic digital painting of A horse, climbing a hill",
+                "A hyper-realistic digital painting of A horse, performing in a dressage event"
+            ],
+            "concept_token": "horse",
+            "index": 74,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A horse",
+            "settings_types": [
+                "background_changing",
+                "pose_changing",
+                "wearing_items",
+                "pose_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "in a stable",
+                "jumping over a hurdle",
+                "wearing a decorative headpiece",
+                "climbing a hill",
+                "performing in a dressage event"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of A cat, playing with a yarn ball",
+                "A hyper-realistic digital painting of A cat, sleeping in a box",
+                "A hyper-realistic digital painting of A cat, wearing a fluffy collar",
+                "A hyper-realistic digital painting of A cat, climbing a tree",
+                "A hyper-realistic digital painting of A cat, sitting on a shelf"
+            ],
+            "concept_token": "cat",
+            "index": 76,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A cat",
+            "settings_types": [
+                "pose_changing",
+                "pose_changing",
+                "wearing_items",
+                "pose_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "playing with a yarn ball",
+                "sleeping in a box",
+                "wearing a fluffy collar",
+                "climbing a tree",
+                "sitting on a shelf"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of A cat, wearing a bow tie",
+                "A hyper-realistic digital painting of A cat, dressed in a Halloween costume",
+                "A hyper-realistic digital painting of A cat, in a busy alley",
+                "A hyper-realistic digital painting of A cat, on a sled",
+                "A hyper-realistic digital painting of A cat, wearing a small bell"
+            ],
+            "concept_token": "cat",
+            "index": 78,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A cat",
+            "settings_types": [
+                "wearing_items",
+                "wearing_items",
+                "background_changing",
+                "background_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "wearing a bow tie",
+                "dressed in a Halloween costume",
+                "in a busy alley",
+                "on a sled",
+                "wearing a small bell"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        },
+        {
+            "prompts": [
+                "A cute kitten with sleek, cream-colored fur and striking blue eyes, wearing a tiny hat",
+                "A cute kitten with sleek, cream-colored fur and striking blue eyes, on a couch",
+                "A cute kitten with sleek, cream-colored fur and striking blue eyes, in a hospital",
+                "A cute kitten with sleek, cream-colored fur and striking blue eyes, playing with a feather toy",
+                "A cute kitten with sleek, cream-colored fur and striking blue eyes, on a rooftop"
+            ],
+            "concept_token": "kitten",
+            "index": 79,
+            "superclass": "animals",
+            "desc_type": "detailed",
+            "subject": "A cute kitten with sleek, cream-colored fur and striking blue eyes",
+            "settings_types": [
+                "wearing_items",
+                "background_changing",
+                "background_changing",
+                "pose_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "wearing a tiny hat",
+                "on a couch",
+                "in a hospital",
+                "playing with a feather toy",
+                "on a rooftop"
+            ],
+            "style": ""
+        },
+        {
+            "prompts": [
+                "neonpunk style of A fox, in a forest clearing",
+                "neonpunk style of A fox, playing in the snow",
+                "neonpunk style of A fox, at the edge of a village",
+                "neonpunk style of A fox, resting in a den",
+                "neonpunk style of A fox, exploring a campground"
+            ],
+            "concept_token": "fox",
+            "index": 80,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A fox",
+            "settings_types": [
+                "background_changing",
+                "pose_changing",
+                "background_changing",
+                "pose_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "in a forest clearing",
+                "playing in the snow",
+                "at the edge of a village",
+                "resting in a den",
+                "exploring a campground"
+            ],
+            "style": "neonpunk style of"
+        },
+        {
+            "prompts": [
+                "A pixar style illustration of A red fox with a vibrant red coat, white belly, and bushy tail, wearing a scarf",
+                "A pixar style illustration of A red fox with a vibrant red coat, white belly, and bushy tail, playing in the snow",
+                "A pixar style illustration of A red fox with a vibrant red coat, white belly, and bushy tail, at the edge of a village",
+                "A pixar style illustration of A red fox with a vibrant red coat, white belly, and bushy tail, in a meadow",
+                "A pixar style illustration of A red fox with a vibrant red coat, white belly, and bushy tail, wearing a tracker collar"
+            ],
+            "concept_token": "fox",
+            "index": 81,
+            "superclass": "animals",
+            "desc_type": "detailed",
+            "subject": "A red fox with a vibrant red coat, white belly, and bushy tail",
+            "settings_types": [
+                "wearing_items",
+                "pose_changing",
+                "background_changing",
+                "background_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "wearing a scarf",
+                "playing in the snow",
+                "at the edge of a village",
+                "in a meadow",
+                "wearing a tracker collar"
+            ],
+            "style": "A pixar style illustration of"
+        },
+        {
+            "prompts": [
+                "A 3D animation of A happy hedgehog, in a cozy nest",
+                "A 3D animation of A happy hedgehog, dressed in a miniature jacket",
+                "A 3D animation of A happy hedgehog, wearing a small collar",
+                "A 3D animation of A happy hedgehog, dressed in a festive outfit",
+                "A 3D animation of A happy hedgehog, wearing a flower crown"
+            ],
+            "concept_token": "hedgehog",
+            "index": 82,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A happy hedgehog",
+            "settings_types": [
+                "background_changing",
+                "wearing_items",
+                "wearing_items",
+                "wearing_items",
+                "wearing_items"
+            ],
+            "settings": [
+                "in a cozy nest",
+                "dressed in a miniature jacket",
+                "wearing a small collar",
+                "dressed in a festive outfit",
+                "wearing a flower crown"
+            ],
+            "style": "A 3D animation of"
+        },
+        {
+            "prompts": [
+                "A black and white sketch of A horse, galloping",
+                "A black and white sketch of A horse, dressed in racing tack",
+                "A black and white sketch of A horse, grazing in a field",
+                "A black and white sketch of A horse, climbing a hill",
+                "A black and white sketch of A horse, performing in a dressage event"
+            ],
+            "concept_token": "horse",
+            "index": 83,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A horse",
+            "settings_types": [
+                "pose_changing",
+                "wearing_items",
+                "pose_changing",
+                "pose_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "galloping",
+                "dressed in racing tack",
+                "grazing in a field",
+                "climbing a hill",
+                "performing in a dressage event"
+            ],
+            "style": "A black and white sketch of"
+        },
+        {
+            "prompts": [
+                "neonpunk style of A happy hedgehog, wearing a tiny cap",
+                "neonpunk style of A happy hedgehog, exploring among flowers",
+                "neonpunk style of A happy hedgehog, wearing a small collar",
+                "neonpunk style of A happy hedgehog, in a meadow",
+                "neonpunk style of A happy hedgehog, in an autumn forest"
+            ],
+            "concept_token": "hedgehog",
+            "index": 84,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A happy hedgehog",
+            "settings_types": [
+                "wearing_items",
+                "pose_changing",
+                "wearing_items",
+                "background_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "wearing a tiny cap",
+                "exploring among flowers",
+                "wearing a small collar",
+                "in a meadow",
+                "in an autumn forest"
+            ],
+            "style": "neonpunk style of"
+        },
+        {
+            "prompts": [
+                "neonpunk style of A parrot, in a tropical rainforest",
+                "neonpunk style of A parrot, dressed in a colorful necklace",
+                "neonpunk style of A parrot, interacting with a mirror",
+                "neonpunk style of A parrot, sitting on a pirate's shoulder",
+                "neonpunk style of A parrot, in a jungle"
+            ],
+            "concept_token": "parrot",
+            "index": 87,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A parrot",
+            "settings_types": [
+                "background_changing",
+                "wearing_items",
+                "pose_changing",
+                "pose_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "in a tropical rainforest",
+                "dressed in a colorful necklace",
+                "interacting with a mirror",
+                "sitting on a pirate's shoulder",
+                "in a jungle"
+            ],
+            "style": "neonpunk style of"
+        },
+        {
+            "prompts": [
+                "A photo of A cute kitten, chasing butterflies",
+                "A photo of A cute kitten, curling up asleep",
+                "A photo of A cute kitten, wearing a collar with a bell",
+                "A photo of A cute kitten, playing with a feather toy",
+                "A photo of A cute kitten, on a rooftop"
+            ],
+            "concept_token": "kitten",
+            "index": 88,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A cute kitten",
+            "settings_types": [
+                "pose_changing",
+                "pose_changing",
+                "wearing_items",
+                "pose_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "chasing butterflies",
+                "curling up asleep",
+                "wearing a collar with a bell",
+                "playing with a feather toy",
+                "on a rooftop"
+            ],
+            "style": "A photo of"
+        },
+        {
+            "prompts": [
+                "A 3D animation of A parrot, flying between trees",
+                "A 3D animation of A parrot, dressed in a colorful necklace",
+                "A 3D animation of A parrot, wearing a small bell",
+                "A 3D animation of A parrot, dressed with a feather accessory",
+                "A 3D animation of A parrot, wearing a miniature vest"
+            ],
+            "concept_token": "parrot",
+            "index": 89,
+            "superclass": "animals",
+            "desc_type": "generic",
+            "subject": "A parrot",
+            "settings_types": [
+                "pose_changing",
+                "wearing_items",
+                "wearing_items",
+                "wearing_items",
+                "wearing_items"
+            ],
+            "settings": [
+                "flying between trees",
+                "dressed in a colorful necklace",
+                "wearing a small bell",
+                "dressed with a feather accessory",
+                "wearing a miniature vest"
+            ],
+            "style": "A 3D animation of"
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of A Palomino horse with a golden coat and a flowing, white mane and tail, in a stable",
+                "A hyper-realistic digital painting of A Palomino horse with a golden coat and a flowing, white mane and tail, jumping over a hurdle",
+                "A hyper-realistic digital painting of A Palomino horse with a golden coat and a flowing, white mane and tail, in a snowy field",
+                "A hyper-realistic digital painting of A Palomino horse with a golden coat and a flowing, white mane and tail, in a mountain trail",
+                "A hyper-realistic digital painting of A Palomino horse with a golden coat and a flowing, white mane and tail, in a busy street"
+            ],
+            "concept_token": "horse",
+            "index": 90,
+            "superclass": "animals",
+            "desc_type": "detailed",
+            "subject": "A Palomino horse with a golden coat and a flowing, white mane and tail",
+            "settings_types": [
+                "background_changing",
+                "pose_changing",
+                "background_changing",
+                "background_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "in a stable",
+                "jumping over a hurdle",
+                "in a snowy field",
+                "in a mountain trail",
+                "in a busy street"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        }
+    ],
+    "humans": [
+        {
+            "prompts": [
+                "A photo of A woman, baking cookies",
+                "A photo of A woman, feeding seagulls",
+                "A photo of A woman, wearing a chef's hat and apron",
+                "A photo of A woman, dressed in a vintage 1950s outfit",
+                "A photo of A woman, on a city street in the 1950s"
+            ],
+            "concept_token": "woman",
+            "index": 2,
+            "superclass": "humans",
+            "desc_type": "generic",
+            "subject": "A woman",
+            "settings_types": [
+                "pose_changing",
+                "pose_changing",
+                "wearing_items",
+                "wearing_items",
+                "background_changing"
+            ],
+            "settings": [
+                "baking cookies",
+                "feeding seagulls",
+                "wearing a chef's hat and apron",
+                "dressed in a vintage 1950s outfit",
+                "on a city street in the 1950s"
+            ],
+            "style": "A photo of"
+        },
+        {
+            "prompts": [
+                "A 3D animation of An elderly gentleman with distinguished gray hair, a neatly trimmed mustache, and gentle blue eyes, reading a newspaper",
+                "A 3D animation of An elderly gentleman with distinguished gray hair, a neatly trimmed mustache, and gentle blue eyes, at a vintage car show",
+                "A 3D animation of An elderly gentleman with distinguished gray hair, a neatly trimmed mustache, and gentle blue eyes, in a vineyard",
+                "A 3D animation of An elderly gentleman with distinguished gray hair, a neatly trimmed mustache, and gentle blue eyes, swinging a golf club",
+                "A 3D animation of An elderly gentleman with distinguished gray hair, a neatly trimmed mustache, and gentle blue eyes, listening to music"
+            ],
+            "concept_token": "gentleman",
+            "index": 3,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "An elderly gentleman with distinguished gray hair, a neatly trimmed mustache, and gentle blue eyes",
+            "settings_types": [
+                "pose_changing",
+                "background_changing",
+                "background_changing",
+                "pose_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "reading a newspaper",
+                "at a vintage car show",
+                "in a vineyard",
+                "swinging a golf club",
+                "listening to music"
+            ],
+            "style": "A 3D animation of"
+        },
+        {
+            "prompts": [
+                "A pixel art depiction of An elderly woman, baking cookies",
+                "A pixel art depiction of An elderly woman, at a seaside pier",
+                "A pixel art depiction of An elderly woman, smelling a rose",
+                "A pixel art depiction of An elderly woman, reading a novel",
+                "A pixel art depiction of An elderly woman, shopping at a market"
+            ],
+            "concept_token": "woman",
+            "index": 4,
+            "superclass": "humans",
+            "desc_type": "generic",
+            "subject": "An elderly woman",
+            "settings_types": [
+                "pose_changing",
+                "background_changing",
+                "pose_changing",
+                "pose_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "baking cookies",
+                "at a seaside pier",
+                "smelling a rose",
+                "reading a novel",
+                "shopping at a market"
+            ],
+            "style": "A pixel art depiction of"
+        },
+        {
+            "prompts": [
+                "neonpunk style of An elderly woman, baking cookies",
+                "neonpunk style of An elderly woman, feeding seagulls",
+                "neonpunk style of An elderly woman, in a rose garden",
+                "neonpunk style of An elderly woman, reading a novel",
+                "neonpunk style of An elderly woman, shopping at a market"
+            ],
+            "concept_token": "woman",
+            "index": 6,
+            "superclass": "humans",
+            "desc_type": "generic",
+            "subject": "An elderly woman",
+            "settings_types": [
+                "pose_changing",
+                "pose_changing",
+                "background_changing",
+                "pose_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "baking cookies",
+                "feeding seagulls",
+                "in a rose garden",
+                "reading a novel",
+                "shopping at a market"
+            ],
+            "style": "neonpunk style of"
+        },
+        {
+            "prompts": [
+                "A pixar style illustration of A woman with a slender figure, straight red hair, and freckles across the nose, wearing a gardening apron",
+                "A pixar style illustration of A woman with a slender figure, straight red hair, and freckles across the nose, at a seaside pier",
+                "A pixar style illustration of A woman with a slender figure, straight red hair, and freckles across the nose, in a rose garden",
+                "A pixar style illustration of A woman with a slender figure, straight red hair, and freckles across the nose, in a cozy library",
+                "A pixar style illustration of A woman with a slender figure, straight red hair, and freckles across the nose, on a city street in the 1950s"
+            ],
+            "concept_token": "woman",
+            "index": 8,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "A woman with a slender figure, straight red hair, and freckles across the nose",
+            "settings_types": [
+                "wearing_items",
+                "background_changing",
+                "background_changing",
+                "background_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "wearing a gardening apron",
+                "at a seaside pier",
+                "in a rose garden",
+                "in a cozy library",
+                "on a city street in the 1950s"
+            ],
+            "style": "A pixar style illustration of"
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of A woman with a slender figure, straight red hair, and freckles across the nose, baking cookies",
+                "A hyper-realistic digital painting of A woman with a slender figure, straight red hair, and freckles across the nose, at a seaside pier",
+                "A hyper-realistic digital painting of A woman with a slender figure, straight red hair, and freckles across the nose, in a rose garden",
+                "A hyper-realistic digital painting of A woman with a slender figure, straight red hair, and freckles across the nose, dressed in a vintage 1950s outfit",
+                "A hyper-realistic digital painting of A woman with a slender figure, straight red hair, and freckles across the nose, wearing a knitted shawl"
+            ],
+            "concept_token": "woman",
+            "index": 9,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "A woman with a slender figure, straight red hair, and freckles across the nose",
+            "settings_types": [
+                "pose_changing",
+                "background_changing",
+                "background_changing",
+                "wearing_items",
+                "wearing_items"
+            ],
+            "settings": [
+                "baking cookies",
+                "at a seaside pier",
+                "in a rose garden",
+                "dressed in a vintage 1950s outfit",
+                "wearing a knitted shawl"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of A middle-aged man, wearing a business suit",
+                "A hyper-realistic digital painting of A middle-aged man, at a traditional Japanese garden",
+                "A hyper-realistic digital painting of A middle-aged man, in a mountain cabin",
+                "A hyper-realistic digital painting of A middle-aged man, walking a dog",
+                "A hyper-realistic digital painting of A middle-aged man, wearing a tuxedo"
+            ],
+            "concept_token": "man",
+            "index": 10,
+            "superclass": "humans",
+            "desc_type": "generic",
+            "subject": "A middle-aged man",
+            "settings_types": [
+                "wearing_items",
+                "background_changing",
+                "background_changing",
+                "pose_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "wearing a business suit",
+                "at a traditional Japanese garden",
+                "in a mountain cabin",
+                "walking a dog",
+                "wearing a tuxedo"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        },
+        {
+            "prompts": [
+                "A 3D animation of A teenage boy with short, spiky black hair, a slight build, and dark brown eyes, in a school classroom",
+                "A 3D animation of A teenage boy with short, spiky black hair, a slight build, and dark brown eyes, performing a skateboard trick",
+                "A 3D animation of A teenage boy with short, spiky black hair, a slight build, and dark brown eyes, wearing a superhero costume",
+                "A 3D animation of A teenage boy with short, spiky black hair, a slight build, and dark brown eyes, in a futuristic cityscape",
+                "A 3D animation of A teenage boy with short, spiky black hair, a slight build, and dark brown eyes, wearing an explorer's hat"
+            ],
+            "concept_token": "boy",
+            "index": 12,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "A teenage boy with short, spiky black hair, a slight build, and dark brown eyes",
+            "settings_types": [
+                "background_changing",
+                "pose_changing",
+                "wearing_items",
+                "background_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "in a school classroom",
+                "performing a skateboard trick",
+                "wearing a superhero costume",
+                "in a futuristic cityscape",
+                "wearing an explorer's hat"
+            ],
+            "style": "A 3D animation of"
+        },
+        {
+            "prompts": [
+                "A photo of A young girl, wearing a ballet dress",
+                "A photo of A young girl, in a flower garden",
+                "A photo of A young girl, building a sandcastle",
+                "A photo of A young girl, in a medieval castle courtyard",
+                "A photo of A young girl, wearing a birthday party hat"
+            ],
+            "concept_token": "girl",
+            "index": 13,
+            "superclass": "humans",
+            "desc_type": "generic",
+            "subject": "A young girl",
+            "settings_types": [
+                "wearing_items",
+                "background_changing",
+                "pose_changing",
+                "background_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "wearing a ballet dress",
+                "in a flower garden",
+                "building a sandcastle",
+                "in a medieval castle courtyard",
+                "wearing a birthday party hat"
+            ],
+            "style": "A photo of"
+        },
+        {
+            "prompts": [
+                "A black and white sketch of A woman with a slender figure, straight red hair, and freckles across the nose, baking cookies",
+                "A black and white sketch of A woman with a slender figure, straight red hair, and freckles across the nose, at a seaside pier",
+                "A black and white sketch of A woman with a slender figure, straight red hair, and freckles across the nose, in a rose garden",
+                "A black and white sketch of A woman with a slender figure, straight red hair, and freckles across the nose, dressed in a vintage 1950s outfit",
+                "A black and white sketch of A woman with a slender figure, straight red hair, and freckles across the nose, shopping at a market"
+            ],
+            "concept_token": "woman",
+            "index": 14,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "A woman with a slender figure, straight red hair, and freckles across the nose",
+            "settings_types": [
+                "pose_changing",
+                "background_changing",
+                "background_changing",
+                "wearing_items",
+                "pose_changing"
+            ],
+            "settings": [
+                "baking cookies",
+                "at a seaside pier",
+                "in a rose garden",
+                "dressed in a vintage 1950s outfit",
+                "shopping at a market"
+            ],
+            "style": "A black and white sketch of"
+        },
+        {
+            "prompts": [
+                "A pixel art depiction of An elderly gentleman with distinguished gray hair, a neatly trimmed mustache, and gentle blue eyes, in a classic study",
+                "A pixel art depiction of An elderly gentleman with distinguished gray hair, a neatly trimmed mustache, and gentle blue eyes, at a vintage car show",
+                "A pixel art depiction of An elderly gentleman with distinguished gray hair, a neatly trimmed mustache, and gentle blue eyes, wearing a vineyard owner's attire",
+                "A pixel art depiction of An elderly gentleman with distinguished gray hair, a neatly trimmed mustache, and gentle blue eyes, on a golf course",
+                "A pixel art depiction of An elderly gentleman with distinguished gray hair, a neatly trimmed mustache, and gentle blue eyes, on a mountain"
+            ],
+            "concept_token": "gentleman",
+            "index": 16,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "An elderly gentleman with distinguished gray hair, a neatly trimmed mustache, and gentle blue eyes",
+            "settings_types": [
+                "background_changing",
+                "background_changing",
+                "wearing_items",
+                "background_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "in a classic study",
+                "at a vintage car show",
+                "wearing a vineyard owner's attire",
+                "on a golf course",
+                "on a mountain"
+            ],
+            "style": "A pixel art depiction of"
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of A 16 years old girl, on a playground",
+                "A hyper-realistic digital painting of A 16 years old girl, dressed in a Halloween costume",
+                "A hyper-realistic digital painting of A 16 years old girl, at a beach during sunset",
+                "A hyper-realistic digital painting of A 16 years old girl, reading a fairy tale book",
+                "A hyper-realistic digital painting of A 16 years old girl, in a city park with autumn leaves"
+            ],
+            "concept_token": "girl",
+            "index": 17,
+            "superclass": "humans",
+            "desc_type": "generic",
+            "subject": "A 16 years old girl",
+            "settings_types": [
+                "background_changing",
+                "wearing_items",
+                "background_changing",
+                "pose_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "on a playground",
+                "dressed in a Halloween costume",
+                "at a beach during sunset",
+                "reading a fairy tale book",
+                "in a city park with autumn leaves"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes, on a playground",
+                "A hyper-realistic digital painting of a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes, in a flower garden",
+                "A hyper-realistic digital painting of a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes, building a sandcastle",
+                "A hyper-realistic digital painting of a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes, reading a fairy tale book",
+                "A hyper-realistic digital painting of a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes, in a city park with autumn leaves"
+            ],
+            "concept_token": "girl",
+            "index": 18,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes",
+            "settings_types": [
+                "background_changing",
+                "background_changing",
+                "pose_changing",
+                "pose_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "on a playground",
+                "in a flower garden",
+                "building a sandcastle",
+                "reading a fairy tale book",
+                "in a city park with autumn leaves"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        },
+        {
+            "prompts": [
+                "A pixar style illustration of A toddler, wearing pajamas",
+                "A pixar style illustration of A toddler, at a zoo",
+                "A pixar style illustration of A toddler, wearing a swimsuit",
+                "A pixar style illustration of A toddler, dressed in a superhero cape",
+                "A pixar style illustration of A toddler, wearing a birthday crown"
+            ],
+            "concept_token": "toddler",
+            "index": 19,
+            "superclass": "humans",
+            "desc_type": "generic",
+            "subject": "A toddler",
+            "settings_types": [
+                "wearing_items",
+                "background_changing",
+                "wearing_items",
+                "wearing_items",
+                "wearing_items"
+            ],
+            "settings": [
+                "wearing pajamas",
+                "at a zoo",
+                "wearing a swimsuit",
+                "dressed in a superhero cape",
+                "wearing a birthday crown"
+            ],
+            "style": "A pixar style illustration of"
+        },
+        {
+            "prompts": [
+                "A vintage-style poster of a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes, wearing a ballet dress",
+                "A vintage-style poster of a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes, jumping in a puddle",
+                "A vintage-style poster of a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes, wearing a raincoat and boots",
+                "A vintage-style poster of a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes, in a medieval castle courtyard",
+                "A vintage-style poster of a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes, blowing bubbles"
+            ],
+            "concept_token": "girl",
+            "index": 20,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes",
+            "settings_types": [
+                "wearing_items",
+                "pose_changing",
+                "wearing_items",
+                "background_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "wearing a ballet dress",
+                "jumping in a puddle",
+                "wearing a raincoat and boots",
+                "in a medieval castle courtyard",
+                "blowing bubbles"
+            ],
+            "style": "A vintage-style poster of"
+        },
+        {
+            "prompts": [
+                "A black and white sketch of A toddler, wearing pajamas",
+                "A black and white sketch of A toddler, at a zoo",
+                "A black and white sketch of A toddler, splashing in a puddle",
+                "A black and white sketch of A toddler, dressed in a superhero cape",
+                "A black and white sketch of A toddler, sliding down a slide"
+            ],
+            "concept_token": "toddler",
+            "index": 22,
+            "superclass": "humans",
+            "desc_type": "generic",
+            "subject": "A toddler",
+            "settings_types": [
+                "wearing_items",
+                "background_changing",
+                "pose_changing",
+                "wearing_items",
+                "pose_changing"
+            ],
+            "settings": [
+                "wearing pajamas",
+                "at a zoo",
+                "splashing in a puddle",
+                "dressed in a superhero cape",
+                "sliding down a slide"
+            ],
+            "style": "A black and white sketch of"
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of A teenage boy with short, spiky black hair, a slight build, and dark brown eyes, green knitted hat",
+                "A hyper-realistic digital painting of A teenage boy with short, spiky black hair, a slight build, and dark brown eyes, at an urban skatepark",
+                "A hyper-realistic digital painting of A teenage boy with short, spiky black hair, a slight build, and dark brown eyes, in a dense forest",
+                "A hyper-realistic digital painting of A teenage boy with short, spiky black hair, a slight build, and dark brown eyes, dressed as an astronaut",
+                "A hyper-realistic digital painting of A teenage boy with short, spiky black hair, a slight build, and dark brown eyes, digging with a trowel"
+            ],
+            "concept_token": "boy",
+            "index": 24,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "A teenage boy with short, spiky black hair, a slight build, and dark brown eyes",
+            "settings_types": [
+                "wearing_items",
+                "background_changing",
+                "background_changing",
+                "wearing_items",
+                "pose_changing"
+            ],
+            "settings": [
+                "green knitted hat",
+                "at an urban skatepark",
+                "in a dense forest",
+                "dressed as an astronaut",
+                "digging with a trowel"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        },
+        {
+            "prompts": [
+                "A pixar style illustration of A woman with a slender figure, straight red hair, and freckles across the nose, wearing a gardening apron",
+                "A pixar style illustration of A woman with a slender figure, straight red hair, and freckles across the nose, feeding seagulls",
+                "A pixar style illustration of A woman with a slender figure, straight red hair, and freckles across the nose, wearing a chef's hat and apron",
+                "A pixar style illustration of A woman with a slender figure, straight red hair, and freckles across the nose, dressed in a vintage 1950s outfit",
+                "A pixar style illustration of A woman with a slender figure, straight red hair, and freckles across the nose, on a city street in the 1950s"
+            ],
+            "concept_token": "woman",
+            "index": 25,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "A woman with a slender figure, straight red hair, and freckles across the nose",
+            "settings_types": [
+                "wearing_items",
+                "pose_changing",
+                "wearing_items",
+                "wearing_items",
+                "background_changing"
+            ],
+            "settings": [
+                "wearing a gardening apron",
+                "feeding seagulls",
+                "wearing a chef's hat and apron",
+                "dressed in a vintage 1950s outfit",
+                "on a city street in the 1950s"
+            ],
+            "style": "A pixar style illustration of"
+        },
+        {
+            "prompts": [
+                "A photo of A teenage boy, in a school classroom",
+                "A photo of A teenage boy, at an urban skatepark",
+                "A photo of A teenage boy, in a dense forest",
+                "A photo of A teenage boy, in a futuristic cityscape",
+                "A photo of A teenage boy, wearing an explorer's hat"
+            ],
+            "concept_token": "boy",
+            "index": 26,
+            "superclass": "humans",
+            "desc_type": "generic",
+            "subject": "A teenage boy",
+            "settings_types": [
+                "background_changing",
+                "background_changing",
+                "background_changing",
+                "background_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "in a school classroom",
+                "at an urban skatepark",
+                "in a dense forest",
+                "in a futuristic cityscape",
+                "wearing an explorer's hat"
+            ],
+            "style": "A photo of"
+        },
+        {
+            "prompts": [
+                "A watercolor illustration of A male child with a round face, short ginger hair, and curious, wide eyes, in a toy store",
+                "A watercolor illustration of A male child with a round face, short ginger hair, and curious, wide eyes, exploring an exhibit",
+                "A watercolor illustration of A male child with a round face, short ginger hair, and curious, wide eyes, in a backyard",
+                "A watercolor illustration of A male child with a round face, short ginger hair, and curious, wide eyes, dressed in a prince costume",
+                "A watercolor illustration of A male child with a round face, short ginger hair, and curious, wide eyes, in a treehouse"
+            ],
+            "concept_token": "child",
+            "index": 27,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "A male child with a round face, short ginger hair, and curious, wide eyes",
+            "settings_types": [
+                "background_changing",
+                "pose_changing",
+                "background_changing",
+                "wearing_items",
+                "background_changing"
+            ],
+            "settings": [
+                "in a toy store",
+                "exploring an exhibit",
+                "in a backyard",
+                "dressed in a prince costume",
+                "in a treehouse"
+            ],
+            "style": "A watercolor illustration of"
+        },
+        {
+            "prompts": [
+                "A photo of An athletic woman, lifting weights",
+                "A photo of An athletic woman, at a sports stadium",
+                "A photo of An athletic woman, wearing a tracksuit",
+                "A photo of An athletic woman, dressed in a ballet outfit",
+                "A photo of An athletic woman, wearing hiking attire"
+            ],
+            "concept_token": "woman",
+            "index": 28,
+            "superclass": "humans",
+            "desc_type": "generic",
+            "subject": "An athletic woman",
+            "settings_types": [
+                "pose_changing",
+                "background_changing",
+                "wearing_items",
+                "wearing_items",
+                "wearing_items"
+            ],
+            "settings": [
+                "lifting weights",
+                "at a sports stadium",
+                "wearing a tracksuit",
+                "dressed in a ballet outfit",
+                "wearing hiking attire"
+            ],
+            "style": "A photo of"
+        },
+        {
+            "prompts": [
+                "A minimalist graphic design of A young girl with long, curly blonde hair and bright blue eyes, wearing a ballet dress",
+                "A minimalist graphic design of A young girl with long, curly blonde hair and bright blue eyes, jumping in a puddle",
+                "A minimalist graphic design of A young girl with long, curly blonde hair and bright blue eyes, wearing a raincoat and boots",
+                "A minimalist graphic design of A young girl with long, curly blonde hair and bright blue eyes, in a medieval castle courtyard",
+                "A minimalist graphic design of A young girl with long, curly blonde hair and bright blue eyes, blowing bubbles"
+            ],
+            "concept_token": "girl",
+            "index": 29,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "A young girl with long, curly blonde hair and bright blue eyes",
+            "settings_types": [
+                "wearing_items",
+                "pose_changing",
+                "wearing_items",
+                "background_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "wearing a ballet dress",
+                "jumping in a puddle",
+                "wearing a raincoat and boots",
+                "in a medieval castle courtyard",
+                "blowing bubbles"
+            ],
+            "style": "A minimalist graphic design of"
+        },
+        {
+            "prompts": [
+                "A male child, in a toy store",
+                "A male child, exploring an exhibit",
+                "A male child, wearing a raincoat",
+                "A male child, dressed in a prince costume",
+                "A male child, wearing a cowboy hat"
+            ],
+            "concept_token": "child",
+            "index": 30,
+            "superclass": "humans",
+            "desc_type": "generic",
+            "subject": "A male child",
+            "settings_types": [
+                "background_changing",
+                "pose_changing",
+                "wearing_items",
+                "wearing_items",
+                "wearing_items"
+            ],
+            "settings": [
+                "in a toy store",
+                "exploring an exhibit",
+                "wearing a raincoat",
+                "dressed in a prince costume",
+                "wearing a cowboy hat"
+            ],
+            "style": ""
+        },
+        {
+            "prompts": [
+                "neonpunk style of An athletic person with toned muscles, short cropped hair, and an intense gaze, in a gym",
+                "neonpunk style of An athletic person with toned muscles, short cropped hair, and an intense gaze, at a sports stadium",
+                "neonpunk style of An athletic person with toned muscles, short cropped hair, and an intense gaze, running a race",
+                "neonpunk style of An athletic person with toned muscles, short cropped hair, and an intense gaze, in a dance studio",
+                "neonpunk style of An athletic person with toned muscles, short cropped hair, and an intense gaze, wearing hiking attire"
+            ],
+            "concept_token": "person",
+            "index": 32,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "An athletic person with toned muscles, short cropped hair, and an intense gaze",
+            "settings_types": [
+                "background_changing",
+                "background_changing",
+                "pose_changing",
+                "background_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "in a gym",
+                "at a sports stadium",
+                "running a race",
+                "in a dance studio",
+                "wearing hiking attire"
+            ],
+            "style": "neonpunk style of"
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of A teenage boy, writing on a chalkboard",
+                "A hyper-realistic digital painting of A teenage boy, at an urban skatepark",
+                "A hyper-realistic digital painting of A teenage boy, climbing a tree",
+                "A hyper-realistic digital painting of A teenage boy, dressed as an astronaut",
+                "A hyper-realistic digital painting of A teenage boy, wearing an explorer's hat"
+            ],
+            "concept_token": "boy",
+            "index": 33,
+            "superclass": "humans",
+            "desc_type": "generic",
+            "subject": "A teenage boy",
+            "settings_types": [
+                "pose_changing",
+                "background_changing",
+                "pose_changing",
+                "wearing_items",
+                "wearing_items"
+            ],
+            "settings": [
+                "writing on a chalkboard",
+                "at an urban skatepark",
+                "climbing a tree",
+                "dressed as an astronaut",
+                "wearing an explorer's hat"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        },
+        {
+            "prompts": [
+                "A photo of An elderly woman, baking cookies",
+                "A photo of An elderly woman, at a seaside pier",
+                "A photo of An elderly woman, wearing a chef's hat and apron",
+                "A photo of An elderly woman, in a cozy library",
+                "A photo of An elderly woman, shopping at a market"
+            ],
+            "concept_token": "woman",
+            "index": 34,
+            "superclass": "humans",
+            "desc_type": "generic",
+            "subject": "An elderly woman",
+            "settings_types": [
+                "pose_changing",
+                "background_changing",
+                "wearing_items",
+                "background_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "baking cookies",
+                "at a seaside pier",
+                "wearing a chef's hat and apron",
+                "in a cozy library",
+                "shopping at a market"
+            ],
+            "style": "A photo of"
+        },
+        {
+            "prompts": [
+                "A hyper-realistic digital painting of An elderly gentleman, wearing a smoking jacket",
+                "A hyper-realistic digital painting of An elderly gentleman, at a vintage car show",
+                "A hyper-realistic digital painting of An elderly gentleman, wearing a vineyard owner's attire",
+                "A hyper-realistic digital painting of An elderly gentleman, on a golf course",
+                "A hyper-realistic digital painting of An elderly gentleman, at a classical music concert"
+            ],
+            "concept_token": "gentleman",
+            "index": 35,
+            "superclass": "humans",
+            "desc_type": "generic",
+            "subject": "An elderly gentleman",
+            "settings_types": [
+                "wearing_items",
+                "background_changing",
+                "wearing_items",
+                "background_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "wearing a smoking jacket",
+                "at a vintage car show",
+                "wearing a vineyard owner's attire",
+                "on a golf course",
+                "at a classical music concert"
+            ],
+            "style": "A hyper-realistic digital painting of"
+        },
+        {
+            "prompts": [
+                "neonpunk style of A young girl with long, curly blonde hair and bright blue eyes, wearing a ballet dress",
+                "neonpunk style of A young girl with long, curly blonde hair and bright blue eyes, in a flower garden",
+                "neonpunk style of A young girl with long, curly blonde hair and bright blue eyes, building a sandcastle",
+                "neonpunk style of A young girl with long, curly blonde hair and bright blue eyes, in a medieval castle courtyard",
+                "neonpunk style of A young girl with long, curly blonde hair and bright blue eyes, wearing a birthday party hat"
+            ],
+            "concept_token": "girl",
+            "index": 36,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "A young girl with long, curly blonde hair and bright blue eyes",
+            "settings_types": [
+                "wearing_items",
+                "background_changing",
+                "pose_changing",
+                "background_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "wearing a ballet dress",
+                "in a flower garden",
+                "building a sandcastle",
+                "in a medieval castle courtyard",
+                "wearing a birthday party hat"
+            ],
+            "style": "neonpunk style of"
+        },
+        {
+            "prompts": [
+                "A photo of A woman with a slender figure, straight red hair, and freckles across the nose, in a vintage kitchen",
+                "A photo of A woman with a slender figure, straight red hair, and freckles across the nose, dressed in a formal evening gown",
+                "A photo of A woman with a slender figure, straight red hair, and freckles across the nose, in a rose garden",
+                "A photo of A woman with a slender figure, straight red hair, and freckles across the nose, reading a novel",
+                "A photo of A woman with a slender figure, straight red hair, and freckles across the nose, shopping at a market"
+            ],
+            "concept_token": "woman",
+            "index": 38,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "A woman with a slender figure, straight red hair, and freckles across the nose",
+            "settings_types": [
+                "background_changing",
+                "wearing_items",
+                "background_changing",
+                "pose_changing",
+                "pose_changing"
+            ],
+            "settings": [
+                "in a vintage kitchen",
+                "dressed in a formal evening gown",
+                "in a rose garden",
+                "reading a novel",
+                "shopping at a market"
+            ],
+            "style": "A photo of"
+        },
+        {
+            "prompts": [
+                "neonpunk style of A male child with a round face, short ginger hair, and curious, wide eyes, wearing a Halloween costume",
+                "neonpunk style of A male child with a round face, short ginger hair, and curious, wide eyes, exploring an exhibit",
+                "neonpunk style of A male child with a round face, short ginger hair, and curious, wide eyes, wearing a raincoat",
+                "neonpunk style of A male child with a round face, short ginger hair, and curious, wide eyes, dressed in a prince costume",
+                "neonpunk style of A male child with a round face, short ginger hair, and curious, wide eyes, wearing a cowboy hat"
+            ],
+            "concept_token": "child",
+            "index": 39,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "A male child with a round face, short ginger hair, and curious, wide eyes",
+            "settings_types": [
+                "wearing_items",
+                "pose_changing",
+                "wearing_items",
+                "wearing_items",
+                "wearing_items"
+            ],
+            "settings": [
+                "wearing a Halloween costume",
+                "exploring an exhibit",
+                "wearing a raincoat",
+                "dressed in a prince costume",
+                "wearing a cowboy hat"
+            ],
+            "style": "neonpunk style of"
+        },
+        {
+            "prompts": [
+                "A watercolor illustration of A woman with a slender figure, straight red hair, and freckles across the nose, baking a cake",
+                "A watercolor illustration of A woman with a slender figure, straight red hair, and freckles across the nose, dressed in a formal evening gown",
+                "A watercolor illustration of A woman with a slender figure, straight red hair, and freckles across the nose, wearing a chef's hat and apron",
+                "A watercolor illustration of A woman with a slender figure, straight red hair, and freckles across the nose, holding a box",
+                "A watercolor illustration of A woman with a slender figure, straight red hair, and freckles across the nose, in a snowy forest"
+            ],
+            "concept_token": "woman",
+            "index": 42,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "A woman with a slender figure, straight red hair, and freckles across the nose",
+            "settings_types": [
+                "pose_changing",
+                "wearing_items",
+                "wearing_items",
+                "pose_changing",
+                "background_changing"
+            ],
+            "settings": [
+                "baking a cake",
+                "dressed in a formal evening gown",
+                "wearing a chef's hat and apron",
+                "holding a box",
+                "in a snowy forest"
+            ],
+            "style": "A watercolor illustration of"
+        },
+        {
+            "prompts": [
+                "A pixel art depiction of a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes, wearing a ballet dress",
+                "A pixel art depiction of a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes, in a flower garden",
+                "A pixel art depiction of a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes, building a sandcastle",
+                "A pixel art depiction of a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes, in a medieval castle courtyard",
+                "A pixel art depiction of a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes, wearing a birthday party hat"
+            ],
+            "concept_token": "girl",
+            "index": 43,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "a 16 years old girl with wavy chestnut hair, a slender frame, and soft brown eyes",
+            "settings_types": [
+                "wearing_items",
+                "background_changing",
+                "pose_changing",
+                "background_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "wearing a ballet dress",
+                "in a flower garden",
+                "building a sandcastle",
+                "in a medieval castle courtyard",
+                "wearing a birthday party hat"
+            ],
+            "style": "A pixel art depiction of"
+        },
+        {
+            "prompts": [
+                "A vintage-style poster of An athletic person with toned muscles, short cropped hair, and an intense gaze, in a gym",
+                "A vintage-style poster of An athletic person with toned muscles, short cropped hair, and an intense gaze, dressed in a team uniform",
+                "A vintage-style poster of An athletic person with toned muscles, short cropped hair, and an intense gaze, on a running track",
+                "A vintage-style poster of An athletic person with toned muscles, short cropped hair, and an intense gaze, performing a dance routine",
+                "A vintage-style poster of An athletic person with toned muscles, short cropped hair, and an intense gaze, wearing hiking attire"
+            ],
+            "concept_token": "person",
+            "index": 44,
+            "superclass": "humans",
+            "desc_type": "detailed",
+            "subject": "An athletic person with toned muscles, short cropped hair, and an intense gaze",
+            "settings_types": [
+                "background_changing",
+                "wearing_items",
+                "background_changing",
+                "pose_changing",
+                "wearing_items"
+            ],
+            "settings": [
+                "in a gym",
+                "dressed in a team uniform",
+                "on a running track",
+                "performing a dance routine",
+                "wearing hiking attire"
+            ],
+            "style": "A vintage-style poster of"
+        }
+    ]
+}
