@@ -1,8 +1,17 @@
 # DevConsiStory
 This repository is an experimental implementation of [Consistory](https://arxiv.org/abs/2402.03286). **This is an unofficial implementation based on SDXL.**  
 
-
  The experimental code ~~will~~ be published,  with the same results as below.
+
+| **DevConsiStory** | ![dog_0_SDXL_2355_up](https://raw.githubusercontent.com/suchot/blog-pic-bed/master/202407151457008.png) | ![dog_1_SDXL_2355_up](https://raw.githubusercontent.com/suchot/blog-pic-bed/master/202407151457926.png) | ![dog_2_SDXL_2355_up](https://raw.githubusercontent.com/suchot/blog-pic-bed/master/202407151457976.png) |
+| ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **SDXL**          | ![dog_0_SDXL_2355](https://raw.githubusercontent.com/suchot/blog-pic-bed/master/202407151459667.png) | ![dog_1_SDXL_2355](https://raw.githubusercontent.com/suchot/blog-pic-bed/master/202407151459137.png) | ![dog_2_SDXL_2355](https://raw.githubusercontent.com/suchot/blog-pic-bed/master/202407151458819.png) |
+
+
+
+
+
+
 
 ## My Experimental Code Qualitative Results
 
@@ -91,5 +100,4 @@ for detail in details:
 
 
 * kousw/experimental-consistory: https://github.com/kousw/experimental-consistory
-
 
